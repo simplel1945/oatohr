@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="workflowhr">
+    <output-path>$PROJECT_DIR$/out/artifacts/workflowhr</output-path>
+    <root id="archive" name="workflowhr.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/classbean" />
+    </root>
+  </artifact>
+</component>
